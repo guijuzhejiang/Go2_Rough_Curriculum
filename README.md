@@ -10,7 +10,7 @@ The core objective is to train a generalizable gait controller that can follow v
 
 ### Training Demo
 
-<video src="assets/rl-video-step-84000.mp4" controls width="100%"></video>
+![](assets/demo.gif)
 
 ---
 

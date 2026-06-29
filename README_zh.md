@@ -10,7 +10,7 @@
 
 ### 训练演示
 
-<video src="assets/rl-video-step-84000.mp4" controls width="100%"></video>
+![](assets/demo.gif)
 
 ---
 
