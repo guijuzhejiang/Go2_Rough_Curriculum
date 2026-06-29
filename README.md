@@ -8,6 +8,10 @@ This is a reinforcement learning project for training robust velocity-tracking l
 
 The core objective is to train a generalizable gait controller that can follow velocity commands across diverse real-world terrains — flat ground, slopes, stairs, and rough surfaces — rather than overfitting to a single idealized terrain.
 
+### Training Demo
+
+<video src="assets/rl-video-step-84000.mp4" controls width="100%"></video>
+
 ---
 
 ## Key Features
